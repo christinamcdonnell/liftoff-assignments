@@ -1,6 +1,6 @@
 # Capstone Project Plan
 
-## Overview
+## Overview   1-2 para, elevator pitch, non tech
 
 ## Features
 
