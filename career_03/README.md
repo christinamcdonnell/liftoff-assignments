@@ -4,7 +4,7 @@ Within your liftoff-assigments repository, open up career_03/README.md. Using Ma
 
 ## Resume PDF (for an older resume that needs to be updated)
 
-*   not yet!
+*   https://github.com/christinamcdonnell/liftoff-assignments/blob/master/career_03/Christina_s%20Resume%20Aug%204%202016%20Hybrid%20linkedIn%20top%20.pdf
 
 ## Link to my GitHub Profiles
 
